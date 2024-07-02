@@ -14,6 +14,10 @@ git checkout -b "nome da branch de origem" "nome da nova branch"     Permite mud
 git merge "branch a receber merge"                                   Permite fazer o merge da branch ativa atualmente com outra branch
 git pull                                                             atualiza a branch atualmente ativa
 ```
+
+### 
+
+```
 echo "# teste" >> README.md
 git init
 git add README.md
